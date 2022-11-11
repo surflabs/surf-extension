@@ -1,0 +1,19 @@
+#trengo-web-widget .TrengoWidgetLauncher__iframe {
+    display: none !important;
+}
+
+#trengo-web-widget .TrengoOnlineStatus__iframe {
+    display: none !important;
+}
+
+#trengo-web-widget .TrengoWidgetGreeter__iframe {
+    display: none !important;
+}
+
+#trengo-web-widget .TrengoWidgetBadge__iframe {
+    bottom: 56px !important;
+}
+#trengo-web-widget .TrengoWidgetPanel__iframe{
+    bottom: 0 !important;
+    top: 70px !important;
+}

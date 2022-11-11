@@ -1,0 +1,216 @@
+.mico-airdrop:before {
+  content: "\e71e";
+}
+
+.mico-stake:before {
+  content: "\e609";
+}
+
+.mico-swap:before {
+  content: "\e619";
+}
+
+.mico-discord:before {
+  content: "\e719";
+}
+
+.mico-warn-bg:before {
+  content: "\e718";
+}
+
+.mico-time-clock:before {
+  content: "\e717";
+}
+
+.mico-add-circle:before {
+  content: "\e608";
+}
+
+.mico-password:before {
+  content: "\e715";
+}
+
+.mico-key:before {
+  content: "\e716";
+}
+
+.mico-moon:before {
+  content: "\e700";
+}
+
+.mico-success:before {
+  content: "\e714";
+}
+
+.mico-error:before {
+  content: "\e712";
+}
+
+.mico-arrow-right1:before {
+  content: "\e607";
+}
+
+.mico-lock:before {
+  content: "\e70b";
+}
+
+.mico-language:before {
+  content: "\e70c";
+}
+
+.mico-network:before {
+  content: "\e70d";
+}
+
+.mico-sun:before {
+  content: "\e70e";
+}
+
+.mico-customer-service:before {
+  content: "\e70f";
+}
+
+.mico-private:before {
+  content: "\e710";
+}
+
+.mico-record-nft:before {
+  content: "\e605";
+}
+
+.mico-solid-close:before {
+  content: "\e6e7";
+}
+
+.mico-close:before {
+  content: "\e6a5";
+}
+
+.mico-receive:before {
+  content: "\e711";
+}
+
+.mico-send:before {
+  content: "\e713";
+}
+
+.mico-warn-sign:before {
+  content: "\e603";
+}
+
+.mico-arrow-down:before {
+  content: "\e68e";
+}
+
+.mico-delete:before {
+  content: "\e6ee";
+}
+
+.mico-tab-record:before {
+  content: "\e707";
+}
+
+.mico-tab-wallet:before {
+  content: "\e708";
+}
+
+.mico-tab-my:before {
+  content: "\e709";
+}
+
+.mico-tab-nft:before {
+  content: "\e70a";
+}
+
+.mico-link:before {
+  content: "\e69f";
+}
+
+.mico-arrow-left:before {
+  content: "\e6a4";
+}
+
+.mico-arrow-right:before {
+  content: "\e68b";
+}
+
+.mico-connect:before {
+  content: "\e6a2";
+}
+
+.mico-visible:before {
+  content: "\e6e8";
+}
+
+.mico-invisible:before {
+  content: "\e6e9";
+}
+
+.mico-copy:before {
+  content: "\e691";
+}
+
+.mico-selected:before {
+  content: "\e697";
+}
+
+.mico-no-connect:before {
+  content: "\e6a0";
+}
+
+.mico-arrow-right-sty1:before {
+  content: "\e6f0";
+}
+
+.mico-click:before {
+  content: "\e6f4";
+}
+
+.mico-twitter:before {
+  content: "\e6f9";
+}
+
+.mico-arrow-bottom:before {
+  content: "\e604";
+}
+
+.mico-arrow-top:before {
+  content: "\e606";
+}
+
+.mico-double-col:before {
+  content: "\e60c";
+}
+
+.mico-muti-col:before {
+  content: "\e611";
+}
+
+.mico-cancel-top:before {
+  content: "\e60b";
+}
+
+.mico-top:before {
+  content: "\e610";
+}
+
+.mico-warn:before {
+  content: "\e6ef";
+}
+
+.mico-plus:before {
+  content: "\e617";
+}
+
+.mico-record-receive:before {
+  content: "\e600";
+}
+
+.mico-record-success:before {
+  content: "\e601";
+}
+
+.mico-record-pay:before {
+  content: "\e602";
+}
+

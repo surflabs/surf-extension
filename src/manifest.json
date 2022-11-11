@@ -1,0 +1,39 @@
+{
+  "manifest_version": 2,
+  "name": "Surf Wallet",
+  "homepage_url": "https://surf.tech/",
+  "description": "Surf makes it easy & safe to transfer tokens and collect NFTs on the Sui blockchain.",
+  "default_locale": "en",
+  "permissions": [
+    "storage",
+    "tabs",
+    "system.display"
+  ],
+  "icons": {
+    "192": "icons/192.png",
+    "512": "icons/512.png"
+  },
+  "background": {
+    "scripts": [
+      "js/background.js"
+    ],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+     "all_frames": true,
+     "js": [ "js/content-script.js", "js/inpage-script.js" ],
+     "matches": [ "file://*/*", "http://*/*", "https://*/*" ],
+     "run_at": "document_start"
+    }
+  ],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "Surf Wallet",
+    "default_icon": {
+      "192": "icons/192.png",
+      "512": "icons/512.png"
+    }
+  },
+  "web_accessible_resources": ["js/inpage-script.js"]
+}
